@@ -1,0 +1,9 @@
+.m*
+.M*
+Module.symvers
+mcp3008.ko
+mcp3008.mod
+mcp3008.mod.c
+mcp3008.mod.o
+mcp3008.o
+modules.order
